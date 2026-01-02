@@ -26,6 +26,33 @@ This project is a **landing page website** focused on:
 
 ---
 
+## 📦 Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/Fokoda799/Landing-page.git
+```
+
+2. **Navigate to the project directory**
+```bash
+cd Landing-page
+```
+
+3. Install dependencies
+```bash
+npm install
+```
+
+4. Start the development server
+```bash
+npm run dev
+```
+
+5. The application will be available at:
+```bash
+http://localhost:5173
+```
+
 ## 🚀 Features
 
 - Fully responsive layout
